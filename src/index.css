@@ -1,0 +1,9 @@
+html {
+  height: 100%;
+}
+
+body {
+  background: url(./images/desk.jpg) no-repeat;
+  background-size: cover;
+  height: 100%;
+}
